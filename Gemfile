@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.10'
 
 # Use postgres
-gem 'pg', '~> 1.4.3'
+gem 'pg', '~> 0.14'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'

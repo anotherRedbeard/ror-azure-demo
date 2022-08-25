@@ -89,7 +89,7 @@ GEM
     nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
-    pg (1.4.3)
+    pg (0.21.0)
     psych (4.0.4)
       stringio
     racc (1.6.0)
@@ -171,7 +171,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
-  pg (~> 1.4.3)
+  pg (~> 0.14)
   rails (= 4.2.10)
   sass-rails (~> 4.0.0)
   sdoc
