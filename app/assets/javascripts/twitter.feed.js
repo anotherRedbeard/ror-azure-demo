@@ -5,9 +5,6 @@ twttr.widgets.createTweet(
     {
       theme: 'dark'
     }
-  );
-
-  twttr.widgets.createTweet(...)
-  .then( function( el ) {
+  ).then( function( el ) {
     console.log('Tweet added.');
   });
