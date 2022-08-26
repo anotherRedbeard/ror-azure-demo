@@ -15,4 +15,5 @@
 //= require bootstrap.min
 //= require turbolinks
 //= require application
+//= require twitter.feed
 
